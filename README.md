@@ -10,4 +10,15 @@ Nesta atividade foram necessárias a criação de duas tabelas e posteriormente 
 
 ![image](https://github.com/CaioHessel/SqlTriggers/assets/64332918/32b2a3f3-5d99-4de8-8284-bdb9e9498f35)
 
+## Exemplo 2
+![image](https://github.com/CaioHessel/SqlTriggers/assets/64332918/e69a5475-354f-47ff-bea7-12751a8ee547)
+
+![image](https://github.com/CaioHessel/SqlTriggers/assets/64332918/24053e3b-1310-47f9-966f-6dd481420325)
+
+
+
+
+
+
+
 
