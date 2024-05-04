@@ -8,3 +8,6 @@ Nesta atividade foram necessárias a criação de duas tabelas e posteriormente 
 ## Exemplo 1
 ![image](https://github.com/CaioHessel/SqlTriggers/assets/64332918/ce7b13c6-117d-49dd-a6b2-103ed9193dc7)
 
+![image](https://github.com/CaioHessel/SqlTriggers/assets/64332918/32b2a3f3-5d99-4de8-8284-bdb9e9498f35)
+
+
